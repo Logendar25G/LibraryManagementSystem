@@ -1,0 +1,37 @@
+[
+  {
+    "uId": 1,
+    "uName": "Logii",
+    "type": 1,
+    "uDept": "CSE",
+    "isActive": true
+  },
+  {
+    "uId": 2,
+    "uName": "Harshini",
+    "type": 1,
+    "uDept": "CSE",
+    "isActive": true
+  },
+  {
+    "uId": 3,
+    "uName": "Vishal",
+    "type": 1,
+    "uDept": "ECE",
+    "isActive": true
+  },
+  {
+    "uId": 4,
+    "uName": "Saravanan",
+    "type": 1,
+    "uDept": "AIDS",
+    "isActive": false
+  },
+  {
+    "uId": 5,
+    "uName": "Raghav",
+    "type": 1,
+    "uDept": "AIDS",
+    "isActive": true
+  }
+]

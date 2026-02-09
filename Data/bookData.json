@@ -1,0 +1,34 @@
+[
+  {
+    "bId": 1,
+    "title": "clean code",
+    "author": "Robert C. Martin",
+    "bCategory": 2,
+    "pubYear": 2008,
+    "copies": 10
+  },
+  {
+    "bId": 2,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "bCategory": 2,
+    "pubYear": 2009,
+    "copies": 5
+  },
+  {
+    "bId": 3,
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "bCategory": 1,
+    "pubYear": 1997,
+    "copies": 22
+  },
+  {
+    "bId": 4,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "bCategory": 1,
+    "pubYear": 1990,
+    "copies": 20
+  }
+]
